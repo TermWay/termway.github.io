@@ -1,0 +1,17 @@
+---
+---
+
+/*@import "jekyll-theme-minimal";*/
+@import "{{ site.theme }}";
+
+section {
+    width:860px;
+    float:right;
+    padding-bottom:50px;
+  }
+  
+h1, h2, h3, h4, h5, h6 {
+  color:#222;
+  margin:20px 0 20px;
+}
+  
