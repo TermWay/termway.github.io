@@ -6,7 +6,7 @@ layout: default
 
 # Independent (2019-2020)  
 
-## TimeframeUI
+## Unity3D Asset : TimeframeUI
 
 [
   [Gitlab](https://gitlab.com/TermWay/TimeframeUI) 
@@ -14,8 +14,7 @@ layout: default
   [Asset Store](https://assetstore.unity.com/packages/tools/gui/timeframeui-156810)
   |
   [WebGL Demo](https://termway.gitlab.io/TimeframeUI/)
-]  
-A simple UI to monitor performance in Unity3D.
+] A simple UI to monitor performance in Unity3D.
 
 {% include youtube_split.html id="z3vvzFiFVWQ" %}
 {% include youtube_split.html id="ssvVOzirybI" %}
@@ -135,7 +134,7 @@ Supervisor for a student project. [A digital introspection of a mummy cat](https
 
 ## Block3D (2013)
 
-Following student project: integration in Immersia VR Room using OpenMASK, Ogre3D, Bullet and VRPN.
+Continuation of the previous student project: integration of the game into Immersia using OpenMASK, Ogre3D, Bullet and VRPN.
 
 {% include driveimg_split.html id="1lImBm1-ZOl7Hi7Bh8oUaAyNJKR9v1Hsb" %}
 {% include driveimg_split.html id="1Cg5d_kmoIMc7jaSV1DdTkBiPzSsQNaUZ" %}
@@ -145,7 +144,7 @@ Following student project: integration in Immersia VR Room using OpenMASK, Ogre3
 
 ## Block3D (2012)
 
-Student project: multiplayer game in using Ogre3D, PhysX, OpenAL, VRPN, WiiUse.
+Student project: a multiplayer game using Ogre3D, PhysX, OpenAL, VRPN, WiiUse.
 
 {% include youtube_split.html id="PsHWkXtoFhI" %}
 {% include youtube_split.html id="vyk8kdfjWas" %}
@@ -155,7 +154,7 @@ Student project: multiplayer game in using Ogre3D, PhysX, OpenAL, VRPN, WiiUse.
 
 ## Minesweeper (2009)
 
-Personnel project: minesweeper with anime art style using java swing.
+Personnel project: a minesweeper game with an anime artistic style using java swing.
 
 {% include youtube_split.html id="8oI1J0JHiOw" %}
 {% include driveimg_split.html id="1tqK2OadA3os09fQ5ao_1BDnVE8bVrmqg" %}
